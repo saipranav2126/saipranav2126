@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sai Pranav — AI/ML and Backend Developer</title>
+  <desc id="desc">A modern navy, slate blue, teal and mint GitHub profile banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#131B2B"/>
+      <stop offset="1" stop-color="#2F4A63"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B91A3"/>
+      <stop offset="1" stop-color="#CFEAE0"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#CFEAE0" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+
+  <!-- Abstract engineering / network motif -->
+  <g fill="none" stroke="#5B91A3" stroke-width="2" opacity=".55">
+    <path d="M850 60H970L1030 120H1160"/>
+    <path d="M820 155H930L990 95H1125"/>
+    <path d="M880 250H1000L1060 190H1180"/>
+    <path d="M1015 35V90L1080 155V255"/>
+    <path d="M1140 55V105L1095 150"/>
+  </g>
+  <g fill="#CFEAE0">
+    <circle cx="850" cy="60" r="5"/><circle cx="970" cy="60" r="5"/>
+    <circle cx="1030" cy="120" r="5"/><circle cx="1160" cy="120" r="5"/>
+    <circle cx="820" cy="155" r="5"/><circle cx="930" cy="155" r="5"/>
+    <circle cx="990" cy="95" r="5"/><circle cx="1125" cy="95" r="5"/>
+    <circle cx="880" cy="250" r="5"/><circle cx="1000" cy="250" r="5"/>
+    <circle cx="1060" cy="190" r="5"/><circle cx="1180" cy="190" r="5"/>
+  </g>
+  <circle cx="1050" cy="155" r="82" fill="#5B91A3" opacity=".10"/>
+  <circle cx="1050" cy="155" r="58" fill="none" stroke="#CFEAE0" stroke-opacity=".35" stroke-width="1.5"/>
+  <circle cx="1050" cy="155" r="38" fill="none" stroke="#CFEAE0" stroke-opacity=".25" stroke-width="1.5"/>
+
+  <!-- Accent -->
+  <rect x="72" y="67" width="7" height="166" rx="3.5" fill="url(#accent)"/>
+  <text x="105" y="92" fill="#CFEAE0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">COMPUTER SCIENCE STUDENT</text>
+  <text x="101" y="158" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700" letter-spacing="-1">Sai Pranav</text>
+  <text x="105" y="199" fill="#CFEAE0" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">AI/ML Enthusiast  ·  Backend Developer</text>
+  <text x="105" y="244" fill="#B8CAD3" font-family="Arial, Helvetica, sans-serif" font-size="17">Curious by nature. Learning by building.</text>
+
+  <g transform="translate(105 270)">
+    <rect width="118" height="27" rx="13.5" fill="#5B91A3" opacity=".95"/>
+    <text x="59" y="18" fill="#131B2B" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">AI / ML</text>
+    <rect x="130" width="174" height="27" rx="13.5" fill="#CFEAE0"/>
+    <text x="217" y="18" fill="#131B2B" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">BACKEND ENGINEERING</text>
+  </g>
+</svg>
